@@ -1,0 +1,1 @@
+Here i have built a fill-in-the-blanks quiz,a Mad-Libs game where quiz will prompt a user with a sentence containing several blanks. The user should then be asked to fill in each blank appropriately to complete the sentence.
